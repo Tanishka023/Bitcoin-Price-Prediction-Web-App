@@ -12,13 +12,13 @@ This is a regression problem where we need to predict the price of Bitcoin. We u
 
 ## WHAT I HAD DONE
 
-1. perfromed exploratory data analysis (EDA) on the given dataset
-2. it starts with loading the dataset and viewing the top 5 rows
-3. we calculate statistical data in the dataset
-4. then comes finding correlation between the features and also finding statistical values related to the dataset
-5. data visualization is done with libraries such as matplotlib and seaborn
-6. finally 3 different algorithms are used to find the best algorithm 
-7. also accuracy score of each algorithm is calculated for comparison purpose with other algorithms
+1. Performed exploratory data analysis (EDA) on the given dataset
+2. It starts with loading the dataset and viewing the top 5 rows
+3. We calculate statistical data in the dataset
+4. Then comes finding correlation between the features and also finding statistical values related to the dataset
+5. Data visualization is done with libraries such as matplotlib and seaborn
+6. Finally 3 different algorithms are used to find the best algorithm 
+7. Also accuracy score of each algorithm is calculated for comparison purpose with other algorithms
 
 
 
